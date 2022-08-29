@@ -7,6 +7,7 @@
         <module>stock</module>
         <module>order-nacos</module>
         <module>stock-nacos</module>
+        <module>order-ribbon</module>
     </modules>
     <!-- parent 以后公司中开发就可以使用parent去继承公司自定义的父工程-->
     <groupId>com.xdl</groupId>
